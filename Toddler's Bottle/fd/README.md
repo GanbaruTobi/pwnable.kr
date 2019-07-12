@@ -43,7 +43,7 @@ int main(int argc, char* argv[], char* envp[]){
     return 0;
 }
 ```
-
+echo "LETMEWIN" | ./fd 4660
 Obviously, if we set fd to 0 (which stands for `stdin`), then the program will read something from `stdin`. 
 
 So we just type `LETMEWIN`, then the flag will display.
