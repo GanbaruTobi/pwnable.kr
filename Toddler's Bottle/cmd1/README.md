@@ -35,5 +35,6 @@ int main(int argc, char* argv[], char** envp){
 `"flag"`, `"sh"` and `"tmp"` are filtered. But we can use wildcard.
 
 ```bash
-$ ./cmd1 "/bin/cat fla*"
+cmd1@prowl:~$ ./cmd1 "(/bin/cat fla*)"
+mommy now I get what PATH environment is for :)
 ```

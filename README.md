@@ -20,7 +20,7 @@ pwn challenges in [pwnable.kr](http://pwnable.kr "http://pwnable.kr")
   * [ ] uaf
   * [ ] codemap
   * [ ] memcpy
-  * [ ] asm
+  * [x] asm
   * [ ] unlink
   * [ ] blukat
   * [ ] horcruxes
